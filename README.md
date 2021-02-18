@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm run serve`
 
-Run the server on port 3001
+
+for running the backend server : json-server --watch db.json --port 3002
 
 ### `npm start`
 
